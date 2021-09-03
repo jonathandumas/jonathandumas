@@ -11,7 +11,7 @@
   * making climate and digital collages
   * any projects that can help to make tiny changes :)
 
-More details about my profile is available at [linkedin](https://www.linkedin.com/in/jonathan-dumas-54a58882) 
+More details about my profile are available at [linkedin](https://www.linkedin.com/in/jonathan-dumas-54a58882) 
 
 <!---
 jonathandumas/jonathandumas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
