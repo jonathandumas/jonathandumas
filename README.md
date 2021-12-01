@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonathandumas, a Ph.D. candidate and Teaching assistant at Liège University.
+- 👋 Hi, I’m @jonathandumas a Teaching assistant at Liège University.
 - 👀 I’m interested in helping the energy transition towards a carbon-free economy.
 - 💞️ I’m looking to collaborate on many research topics such as:
   * probabilistic forecasting and machine learning applied to power systems
