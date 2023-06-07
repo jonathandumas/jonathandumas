@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonathandumas a Teaching assistant at Liège University.
+- 👋 Hi, I’m @jonathandumas a research engineer working for the R&D of the French transmission system operator RTE.
 - 👀 I’m interested in helping the energy transition towards a carbon-free economy.
 - 💞️ I’m looking to collaborate on many research topics such as:
   * probabilistic forecasting and machine learning applied to power systems
